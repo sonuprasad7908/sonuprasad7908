@@ -231,26 +231,3 @@ EquiDash is a full-featured financial backend built with **Python FastAPI**, fea
 `ID: ZUVH1KRP`
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonuprasad7908&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuprasad7908&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sonuprasad7908&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Infrastructure is code. Make it clean, make it scalable."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=sonuprasad7908&color=0891b2&style=flat-square)
-
-</div>
-
