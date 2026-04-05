@@ -98,9 +98,9 @@ EquiDash is a full-featured financial backend built with **Python FastAPI**, fea
 ## 💼 Work Experience
 
 **Cloud Engineer** · Axonaio Technologies Pvt. Ltd. · *Feb 2026 – Present*
-- Executed AWS infrastructure onboarding (EC2, IAM, VPC) with security best practices.
-- Analysed and documented cloud provisioning, configuration, and monitoring procedures.
-- Assessed existing architecture to identify coverage gaps and remediate operational issues.
+- Executed AWS infrastructure onboarding (EC2, IAM, VPC) with security best practices
+- Analysed and documented cloud provisioning, configuration, and monitoring procedures
+- Assessed existing architecture to identify coverage gaps and remediate operational issues
 
 ---
 
