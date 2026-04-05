@@ -254,13 +254,3 @@ EquiDash is a full-featured financial backend built with **Python FastAPI**, fea
 
 </div>
 
-
----
-
-<div align="center">
-
-*"Infrastructure is code. Make it clean, make it scalable."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=sonuprasad7908&color=0891b2&style=flat-square)
-
-</div>
