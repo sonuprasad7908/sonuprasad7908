@@ -27,7 +27,7 @@
 
 ```yaml
 name: Sonu Kumar Prasad
-location: Hyderabad, India
+location: Asansol, West Bengal
 role: Cloud Engineer @ Axonaio Technologies Pvt. Ltd.
 education: MCA — Amity University Kolkata
 focus:
