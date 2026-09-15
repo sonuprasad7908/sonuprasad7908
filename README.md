@@ -10,15 +10,14 @@
 Cloud Engineer focused on building, deploying, securing, and maintaining reliable cloud infrastructure.
 </p>
 
-<a href="https://www.linkedin.com/in/sonu-kumar-prasad-957783227">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:sonu.prasaddav2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/sonuprasad7908">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sonu-kumar-prasad-957783227">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sonu.prasaddav2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
