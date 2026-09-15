@@ -1,120 +1,179 @@
 <div align="center">
 
-```
- ██████╗██╗      ██████╗ ██╗   ██╗██████╗     ███████╗███╗   ██╗ ██████╗ 
-██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗    ██╔════╝████╗  ██║██╔════╝ 
-██║     ██║     ██║   ██║██║   ██║██║  ██║    █████╗  ██╔██╗ ██║██║  ███╗
-██║     ██║     ██║   ██║██║   ██║██║  ██║    ██╔══╝  ██║╚██╗██║██║   ██║
-╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝    ███████╗██║ ╚████║╚██████╔╝
- ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝     ╚══════╝╚═╝  ╚═══╝ ╚═════╝
-```
+# Hi 👋, I'm Sonu Kumar Prasad
 
-# Hey, I'm Sonu Kumar Prasad 👋
+### ☁️ Cloud Engineer
 
-**Cloud Engineer · Backend Developer · Infrastructure Enthusiast**
+**AWS · Linux · Docker · Terraform · CI/CD · Cloud Infrastructure**
 
-*Building scalable systems on AWS, one Terraform block at a time.*
+<p>
+Cloud Engineer focused on building, deploying, securing, and maintaining reliable cloud infrastructure.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-prasad-957783227)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonuprasad7908)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonu.prasaddav2@gmail.com)
+<a href="https://www.linkedin.com/in/sonu-kumar-prasad-957783227">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:sonu.prasaddav2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/sonuprasad7908">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Sonu Kumar Prasad
-location: Asansol, West Bengal
-role: Cloud Engineer @ Axonaio Technologies Pvt. Ltd.
-education: MCA — Amity University Kolkata
-focus:
-  - AWS Cloud Infrastructure (EC2, IAM, VPC, S3, Lambda)
-  - Python FastAPI Backend Development
-  - Infrastructure as Code (Terraform)
-  - Real-time Data Pipelines & REST APIs
-currently_learning:
-  - Advanced AWS Architectures (ECS Fargate, CloudWatch)
-  - Docker & Container Orchestration
-  - CI/CD Pipelines
+- ☁️ Working as a **Cloud Engineer** with hands-on experience in AWS infrastructure and cloud operations
+- 🐧 Managing Linux-based application environments and server configurations
+- 🚀 Working with CI/CD pipelines for development, testing, and production deployments
+- 🐳 Using Docker for containerized workloads and application deployment
+- 🌐 Working with networking, DNS, Nginx, load balancing, and SSL/TLS
+- 🔐 Handling IAM, security groups, secrets, and secure cloud access
+- ⚙️ Strengthening my Infrastructure as Code skills with Terraform
+- 📊 Interested in cloud monitoring, automation, reliability, and scalable infrastructure
+
+---
+
+## ☁️ Cloud & AWS
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" />
+<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+<img src="https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
+
+</p>
+
+---
+
+## ⚙️ DevOps & Automation
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+
+</p>
+
+---
+
+## 🌐 Infrastructure & Operations
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS-Cloud_Networking-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SSL%2FTLS-Security-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Networking-TCP%2FIP-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Monitoring-CloudWatch-FF4F8B?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🔧 What I Work On
+
+```text
+AWS Infrastructure
+├── EC2 & Application Servers
+├── VPC & Cloud Networking
+├── IAM & Access Control
+├── S3 Storage
+├── Route 53 & DNS
+├── Load Balancing
+├── ECR / ECS
+└── CloudWatch Monitoring
+
+Cloud Operations
+├── Linux Administration
+├── Nginx Reverse Proxy
+├── SSL/TLS Configuration
+├── CI/CD Deployments
+├── Docker Workloads
+├── Application Monitoring
+├── Server Troubleshooting
+└── Deployment Automation
 ```
 
 ---
 
-## 🚀 Featured Project — EquiDash
+## 💼 Experience
 
-> **AI-Powered Market Intelligence & Backend API Platform**
+### Cloud Engineer — Axonaio Technologies Pvt. Ltd.
 
-EquiDash is a full-featured financial backend built with **Python FastAPI**, featuring **30 REST & SSE endpoints**, AI-driven stock forecasting, and real-time NSE/BSE price streaming.
-
-| Feature | Details |
-|---|---|
-| 📡 **Real-time Streaming** | Server-Sent Events pushing live price updates every 8s with REST fallback |
-| 🤖 **AI Forecasting** | Groq LLaMA 3.1 computing RSI, MACD, SMA, Bollinger Bands → buy/hold/sell signals |
-| 🔐 **Multi-Auth** | Google OAuth 2.0, Facebook OAuth, OTP/TOTP + bcrypt hashing |
-| ⚡ **Performance** | In-memory caching with TTL & request deduplication |
-| 💳 **Payments** | Stripe API integration |
-| 🗄️ **Database** | MongoDB with async Motor driver |
-
-**Tech Stack:**
-`Python` `FastAPI` `MongoDB` `Groq API` `yfinance` `Stripe API` `OAuth 2.0` `Linux (Ubuntu/WSL)` `Git`
+- AWS infrastructure provisioning and maintenance
+- Linux server administration
+- CI/CD pipeline configuration and deployment automation
+- Docker and container-based workloads
+- Nginx reverse proxy and application routing
+- DNS and SSL/TLS configuration
+- IAM and cloud access management
+- Infrastructure and deployment troubleshooting
+- Monitoring and application availability
 
 ---
 
-## 🛠️ Technical Skills
+## 📚 Currently Strengthening
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+```yaml
+cloud:
+  - Advanced AWS Architecture
+  - High Availability & Scalability
+  - Cloud Monitoring & Observability
 
-### 🧑‍💻 Backend & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+infrastructure_as_code:
+  - Terraform
+  - Reusable Infrastructure Patterns
 
-### 🗄️ Databases & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
-
-### 🧰 Tools & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+automation:
+  - CI/CD Optimization
+  - Bash Automation
+```
 
 ---
 
-## 💼 Work Experience
+## 📊 GitHub Activity
 
-**Cloud Engineer** · Axonaio Technologies Pvt. Ltd. · *Feb 2026 – Present*
-- Executed AWS infrastructure onboarding (EC2, IAM, VPC) with security best practices
-- Analysed and documented cloud provisioning, configuration, and monitoring procedures
-- Assessed existing architecture to identify coverage gaps and remediate operational issues
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sonuprasad7908&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuprasad7908&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-🎓 **MCA** — Amity University Kolkata *(CGPA: 7.14)* · 2023–2025
+**Master of Computer Applications (MCA)**  
+Amity University Kolkata · 2023–2025
 
-🎓 **BCA** — Asansol Engineering College *(CGPA: 8.65)* · 2020–2023
-
-📜 **Multi Cloud + DevOps with AI Bootcamp** (55 Days) — Cloud DevOps Hub · Sept 2025
-`ID: ZUVH1KRP`
+**Bachelor of Computer Applications (BCA)**  
+Asansol Engineering College · 2020–2023
 
 ---
 
 <div align="center">
 
-```
+### ☁️ Building reliable infrastructure. Automating deployments. Learning every day.
+
+**Open to Cloud Engineering opportunities**
+
+</div>
