@@ -31,8 +31,39 @@ Cloud Engineer focused on building, deploying, securing, and maintaining reliabl
 - 🐳 Using Docker for containerized workloads and application deployment
 - 🌐 Working with networking, DNS, Nginx, load balancing, and SSL/TLS
 - 🔐 Handling IAM, security groups, secrets, and secure cloud access
-- ⚙️ Strengthening my Infrastructure as Code skills with Terraform
+- ⚙️ Building reusable Terraform infrastructure modules and validating changes through CI
 - 📊 Interested in cloud monitoring, automation, reliability, and scalable infrastructure
+
+---
+## 🚀 Featured Cloud Projects
+
+### ☁️ [Terraform AWS Infrastructure](https://github.com/sonuprasad7908/terraform-aws-infrastructure)
+
+Modular AWS infrastructure reference project built with Terraform.
+
+**Highlights:** VPC Networking · Public/Private Subnets · Security Groups · Application Load Balancer · EC2 Auto Scaling · IMDSv2 · Terraform Modules · GitHub Actions CI
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonuprasad7908/terraform-aws-infrastructure)
+
+---
+
+### ⚙️ [Cloud CI/CD Workflows](https://github.com/sonuprasad7908/cloud-cicd-workflows)
+
+Reusable CI/CD examples focused on practical Cloud Engineering deployment workflows.
+
+**Highlights:** GitHub Actions · Docker · Bash · Deployment Automation · Health Checks · Rollback Workflows
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonuprasad7908/cloud-cicd-workflows)
+
+---
+
+### 🛠️ [Cloud Operations Troubleshooting](https://github.com/sonuprasad7908/cloud-operations-troubleshooting)
+
+Practical troubleshooting guides for common cloud and Linux operations scenarios.
+
+**Highlights:** Linux · Nginx · Docker · SSL/TLS · DNS · Application Ports · HTTP 502 Troubleshooting
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonuprasad7908/cloud-operations-troubleshooting)
 
 ---
 
